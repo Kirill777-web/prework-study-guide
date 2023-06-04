@@ -9,6 +9,8 @@ Throughout the project, there were valuable learning experiences. It involved un
 
 Overall, the project provided a practical foundation in HTML, CSS, Git, and JavaScript.
 
+
+
 ## Installation
 
 N/A
