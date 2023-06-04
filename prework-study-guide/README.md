@@ -9,24 +9,9 @@ Throughout the project, there were valuable learning experiences. It involved un
 
 Overall, the project provided a practical foundation in HTML, CSS, Git, and JavaScript.
 
-## Table of Contents
+## Instalation
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-1. Visual Studio Code
-2. Create a new project folder
-3. Create HTML file
-4. Create CSS file
-5. Create JavaScript file
-6. Install Git
-7. Commit your changes
-8. Push to a remote repository
-9. Save your files: Make sure to save and update your files and repo regularly
+N/A
 
 ## Usage
 
@@ -57,10 +42,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Badges
-
-<img src="{https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white}" />
-<img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
-<img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
